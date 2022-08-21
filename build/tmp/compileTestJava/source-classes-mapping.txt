@@ -1,0 +1,8 @@
+Steps/LoginPageSteps.java
+ Steps.LoginPageSteps
+UIPages/LoginPage.java
+ UIPages.LoginPage
+AppTests/LoginPageTest.java
+ AppTests.LoginPageTest
+serenityswaglabs/authentication/WhenLoggingOn.java
+ serenityswaglabs.authentication.WhenLoggingOn
